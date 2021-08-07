@@ -4,7 +4,8 @@
 ## Libraries used
 * Discord.py
 * Discord.ext
-* matplotlib
-* os (Optional)
+* Matplotlib
+* Numpy
+* OS (Optional)
 
 Currently supports only bar and pie charts.
